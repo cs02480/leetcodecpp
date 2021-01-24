@@ -5,4 +5,6 @@ leetCodeCpp
 4. Median of Two Sorted Arrays - https://leetcode.com/problems/median-of-two-sorted-arrays
 5. Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring
 6. Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
+7. String to Integer (atoi) - https://leetcode.com/problems/string-to-integer-atoi
+8. Valid Number - https://leetcode.com/problems/valid-number/
  
