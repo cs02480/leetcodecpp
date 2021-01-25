@@ -7,4 +7,9 @@ leetCodeCpp
 6. Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
 7. String to Integer (atoi) - https://leetcode.com/problems/string-to-integer-atoi
 8. Valid Number - https://leetcode.com/problems/valid-number/
+9. Wildcard Matching - https://leetcode.com/problems/wildcard-matching/
+10. Regular Expression Matching (Hard) - https://leetcode.com/problems/regular-expression-matching
+11. Trapping Rain Water - https://leetcode.com/problems/trapping-rain-water/
+12. Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+
  
