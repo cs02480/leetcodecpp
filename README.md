@@ -21,3 +21,6 @@ leetCodeCpp
 20. Best Time to Buy and Sell Stock II - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 21. Best Time to Buy and Sell Stock III - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 22. LRU Cache - https://leetcode.com/problems/lru-cache/
+23. Majority Element - https://leetcode.com/problems/majority-element/
+24. Find Peak Element - https://leetcode.com/problems/find-peak-element/
+25. Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
