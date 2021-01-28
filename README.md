@@ -17,3 +17,6 @@ leetCodeCpp
 16. Letter Combinations of a Phone Number - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 17. Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 18. Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+19. Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+20. Best Time to Buy and Sell Stock II - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+21. Best Time to Buy and Sell Stock III - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
