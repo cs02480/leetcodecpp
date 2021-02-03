@@ -28,3 +28,5 @@
 27. Sqrt(x) - https://leetcode.com/problems/sqrtx/
 28. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
 29. Search a 2D Matrix II https://leetcode.com/problems/search-a-2d-matrix-ii/
+30. Largest Number - https://leetcode.com/problems/largest-number/
+31. Count of Smaller Numbers After Self - https://leetcode.com/problems/count-of-smaller-numbers-after-self/
