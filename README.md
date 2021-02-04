@@ -30,3 +30,8 @@
 29. Search a 2D Matrix II https://leetcode.com/problems/search-a-2d-matrix-ii/
 30. Largest Number - https://leetcode.com/problems/largest-number/
 31. Count of Smaller Numbers After Self - https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+32. Odd Even Linked List - https://leetcode.com/problems/odd-even-linked-list/
+33. Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/
+34. Intersection of Two Linked Lists - https://leetcode.com/problems/intersection-of-two-linked-lists/
+35. Linked List Cycle - https://leetcode.com/problems/linked-list-cycle/
+36. Find Minimum in Rotated Sorted Array https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
